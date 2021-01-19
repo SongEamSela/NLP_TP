@@ -1,0 +1,4 @@
+Nouns: dog, cat, dog, cat, 
+Verb: is, barking, chases, 
+Adjective: little, white, lovely, 
+Adverb: then , quickly , 

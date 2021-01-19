@@ -1,0 +1,3 @@
+Nouns:NLTK, platform, Python, programs, language, data, interfaces, corpora, resources, WordNet, suite, text, processing, libraries, classification, tokenization, NLTK, Windows, Mac, OS, X, Linux, NLTK, source, project.Jonh, school, supermarket.NLP, task, computer, text, language, NLTK, module, everything, machine, tounderstand, bit, text, 
+Verb:is, leading, building, work, provides, stemming, tagging, is, is, is, studying, is, located, is, give, read, understand, comes, help, train, 
+Adjective:human, easy-to-use, lexical, such, available, Best, free, open, community-driven, natural, packed, full, own, specific, 
